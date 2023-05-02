@@ -1,0 +1,24 @@
+services:
+  cloud:
+    build:
+      context: ./cloud
+    ports:
+      - 8081:8081
+    depends_on:
+      - mongo
+  edge:
+    build:
+      context: ./edge
+    depends_on:
+      - cloud
+    ports:
+      - 8082:8082
+  mongo:
+    image: mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo-data:/data/db

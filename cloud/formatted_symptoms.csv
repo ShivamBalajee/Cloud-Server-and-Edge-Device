@@ -1,0 +1,163 @@
+Disease,Symptom_1,Symptom_2,Symptom_3
+Fungal infection,itching,skin_rash,nodal_skin_eruptions
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches
+Fungal infection,itching,skin_rash,dischromic _patches
+Allergy,continuous_sneezing,shivering,chills
+Allergy,shivering,chills,watering_from_eyes
+Allergy,continuous_sneezing,chills,watering_from_eyes
+Allergy,continuous_sneezing,shivering,watering_from_eyes
+GERD,stomach_pain,acidity,ulcers_on_tongue
+GERD,stomach_pain,ulcers_on_tongue,vomiting
+GERD,stomach_pain,acidity,vomiting
+GERD,acidity,ulcers_on_tongue,vomiting
+Chronic cholestasis,itching,vomiting,yellowish_skin
+Chronic cholestasis,vomiting,yellowish_skin,nausea
+Chronic cholestasis,itching,yellowish_skin,nausea
+Chronic cholestasis,itching,vomiting,nausea
+Drug Reaction,itching,skin_rash,stomach_pain
+Drug Reaction,itching,stomach_pain,burning_micturition
+Drug Reaction,itching,skin_rash,burning_micturition
+Drug Reaction,skin_rash,stomach_pain,burning_micturition
+Peptic ulcer diseae,vomiting,loss_of_appetite,abdominal_pain
+Peptic ulcer diseae,vomiting,indigestion,abdominal_pain
+Peptic ulcer diseae,indigestion,loss_of_appetite,abdominal_pain
+Peptic ulcer diseae,vomiting,indigestion,loss_of_appetite
+AIDS,muscle_wasting,patches_in_throat,high_fever
+AIDS,patches_in_throat,high_fever,extra_marital_contacts
+AIDS,muscle_wasting,high_fever,extra_marital_contacts
+AIDS,muscle_wasting,patches_in_throat,extra_marital_contacts
+Diabetes,fatigue,weight_loss,restlessness
+Diabetes,weight_loss,restlessness,lethargy
+Diabetes,fatigue,restlessness,lethargy
+Diabetes,fatigue,weight_loss,lethargy
+Gastroenteritis,vomiting,sunken_eyes,dehydration
+Gastroenteritis,sunken_eyes,dehydration,diarrhoea
+Gastroenteritis,vomiting,dehydration,diarrhoea
+Gastroenteritis,vomiting,sunken_eyes,diarrhoea
+Bronchial Asthma,fatigue,cough,high_fever
+Bronchial Asthma,cough,high_fever,breathlessness
+Bronchial Asthma,fatigue,high_fever,breathlessness
+Bronchial Asthma,fatigue,cough,breathlessness
+Hypertension,headache,chest_pain,dizziness
+Hypertension,chest_pain,dizziness,loss_of_balance
+Hypertension,headache,dizziness,loss_of_balance
+Hypertension,headache,chest_pain,loss_of_balance
+Migraine,acidity,indigestion,headache
+Migraine,indigestion,headache,blurred_and_distorted_vision
+Migraine,acidity,headache,blurred_and_distorted_vision
+Migraine,acidity,indigestion,blurred_and_distorted_vision
+Cervical spondylosis,back_pain,weakness_in_limbs,neck_pain
+Cervical spondylosis,weakness_in_limbs,neck_pain,dizziness
+Cervical spondylosis,back_pain,neck_pain,dizziness
+Cervical spondylosis,back_pain,weakness_in_limbs,dizziness
+Paralysis (brain hemorrhage),vomiting,headache,weakness_of_one_body_side
+Paralysis (brain hemorrhage),headache,weakness_of_one_body_side,altered_sensorium
+Paralysis (brain hemorrhage),vomiting,weakness_of_one_body_side,altered_sensorium
+Paralysis (brain hemorrhage),vomiting,headache,altered_sensorium
+Jaundice,itching,vomiting,fatigue
+Jaundice,vomiting,fatigue,weight_loss
+Jaundice,itching,fatigue,weight_loss
+Jaundice,itching,vomiting,weight_loss
+Malaria,chills,vomiting,high_fever
+Malaria,vomiting,high_fever,sweating
+Malaria,chills,high_fever,sweating
+Malaria,chills,vomiting,sweating
+Chicken pox,itching,skin_rash,fatigue
+Chicken pox,skin_rash,fatigue,lethargy
+Chicken pox,itching,fatigue,lethargy
+Chicken pox,itching,skin_rash,lethargy
+Dengue,skin_rash,chills,joint_pain
+Dengue,chills,joint_pain,vomiting
+Dengue,skin_rash,joint_pain,vomiting
+Dengue,skin_rash,chills,vomiting
+Typhoid,chills,vomiting,fatigue
+Typhoid,chills,fatigue,high_fever
+hepatitis A,joint_pain,vomiting,yellowish_skin
+hepatitis A,vomiting,yellowish_skin,dark_urine
+hepatitis A,joint_pain,yellowish_skin,dark_urine
+hepatitis A,joint_pain,vomiting,dark_urine
+Hepatitis B,itching,fatigue,lethargy
+Hepatitis B,fatigue,lethargy,yellowish_skin
+Hepatitis B,itching,lethargy,yellowish_skin
+Hepatitis B,itching,fatigue,yellowish_skin
+Hepatitis C,fatigue,yellowish_skin,nausea
+Hepatitis C,yellowish_skin,nausea,loss_of_appetite
+Hepatitis C,fatigue,nausea,loss_of_appetite
+Hepatitis C,fatigue,yellowish_skin,loss_of_appetite
+Hepatitis D,joint_pain,vomiting,fatigue
+Hepatitis D,vomiting,fatigue,yellowish_skin
+Hepatitis D,joint_pain,fatigue,yellowish_skin
+Hepatitis D,joint_pain,vomiting,yellowish_skin
+Hepatitis E,joint_pain,vomiting,fatigue
+Hepatitis E,vomiting,fatigue,high_fever
+Hepatitis E,joint_pain,fatigue,high_fever
+Hepatitis E,joint_pain,vomiting,high_fever
+Alcoholic hepatitis,vomiting,yellowish_skin,abdominal_pain
+Alcoholic hepatitis,yellowish_skin,abdominal_pain,swelling_of_stomach
+Alcoholic hepatitis,vomiting,abdominal_pain,swelling_of_stomach
+Alcoholic hepatitis,vomiting,yellowish_skin,swelling_of_stomach
+Tuberculosis,chills,vomiting,fatigue
+Tuberculosis,vomiting,fatigue,weight_loss
+Tuberculosis,chills,fatigue,weight_loss
+Tuberculosis,chills,vomiting,weight_loss
+Common Cold,continuous_sneezing,chills,fatigue
+Common Cold,chills,fatigue,cough
+Common Cold,continuous_sneezing,fatigue,cough
+Common Cold,continuous_sneezing,chills,cough
+Pneumonia,chills,fatigue,cough
+Pneumonia,fatigue,cough,high_fever
+Pneumonia,chills,cough,high_fever
+Pneumonia,chills,fatigue,high_fever
+Dimorphic hemmorhoids(piles),constipation,pain_during_bowel_movements,pain_in_anal_region
+Dimorphic hemmorhoids(piles),pain_during_bowel_movements,pain_in_anal_region,bloody_stool
+Dimorphic hemmorhoids(piles),constipation,pain_in_anal_region,bloody_stool
+Dimorphic hemmorhoids(piles),constipation,pain_during_bowel_movements,bloody_stool
+Heart attack,vomiting,breathlessness,sweating
+Heart attack,breathlessness,sweating,chest_pain
+Heart attack,vomiting,sweating,chest_pain
+Heart attack,vomiting,breathlessness,chest_pain
+Varicose veins,fatigue,cramps,bruising
+Varicose veins,cramps,bruising,obesity
+Varicose veins,fatigue,bruising,obesity
+Varicose veins,fatigue,cramps,obesity
+Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets
+Hypothyroidism,weight_gain,cold_hands_and_feets,mood_swings
+Hypothyroidism,fatigue,cold_hands_and_feets,mood_swings
+Hypothyroidism,fatigue,weight_gain,mood_swings
+Hyperthyroidism,fatigue,mood_swings,weight_loss
+Hyperthyroidism,mood_swings,weight_loss,restlessness
+Hyperthyroidism,fatigue,weight_loss,restlessness
+Hyperthyroidism,fatigue,mood_swings,restlessness
+Hypoglycemia,vomiting,fatigue,anxiety
+Hypoglycemia,fatigue,anxiety,sweating
+Hypoglycemia,vomiting,anxiety,sweating
+Hypoglycemia,vomiting,fatigue,sweating
+Osteoarthristis,joint_pain,neck_pain,knee_pain
+Osteoarthristis,neck_pain,knee_pain,hip_joint_pain
+Osteoarthristis,joint_pain,knee_pain,hip_joint_pain
+Osteoarthristis,joint_pain,neck_pain,hip_joint_pain
+Arthritis,muscle_weakness,stiff_neck,swelling_joints
+Arthritis,stiff_neck,swelling_joints,movement_stiffness
+Arthritis,muscle_weakness,swelling_joints,movement_stiffness
+Arthritis,muscle_weakness,stiff_neck,movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea
+(vertigo) Paroymsal  Positional Vertigo,headache,nausea,spinning_movements
+(vertigo) Paroymsal  Positional Vertigo,vomiting,nausea,spinning_movements
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,spinning_movements
+Acne,skin_rash,pus_filled_pimples,blackheads
+Acne,pus_filled_pimples,blackheads,scurring
+Acne,skin_rash,blackheads,scurring
+Acne,skin_rash,pus_filled_pimples,scurring
+Urinary tract infection,burning_micturition,bladder_discomfort,foul_smell_of urine
+Urinary tract infection,bladder_discomfort,foul_smell_of urine,continuous_feel_of_urine
+Urinary tract infection,burning_micturition,foul_smell_of urine,continuous_feel_of_urine
+Urinary tract infection,burning_micturition,bladder_discomfort,continuous_feel_of_urine
+Psoriasis,skin_rash,joint_pain,skin_peeling
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting
+Psoriasis,skin_rash,joint_pain,silver_like_dusting
+Impetigo,skin_rash,high_fever,blister
+Impetigo,high_fever,blister,red_sore_around_nose
+Impetigo,skin_rash,blister,red_sore_around_nose
+Impetigo,skin_rash,high_fever,red_sore_around_nose

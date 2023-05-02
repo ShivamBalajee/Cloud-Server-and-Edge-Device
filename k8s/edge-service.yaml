@@ -1,0 +1,15 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: edge-service
+spec:
+  schedule: "*/1 * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: edge
+              image: shivam184/edge:0.0.7
+              imagePullPolicy: Never
+          restartPolicy: Never
